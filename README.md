@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SivasakthiMTR
-- 👀 I’m interested in Devops Technologies, especially AWS
+- 👀 I’m interested in Devops Technologies, especially in Cloud AWS
 - 🌱 I’m currently learning whatevet I am working in
 - 💞️ I’m looking to collaborate on AWS Infrastructure architecture and a Continuous Deployment setup for Application deploymet into AWS.
 - 📫 How to reach me - Sivasakthi.M@thomsonreuters.com
